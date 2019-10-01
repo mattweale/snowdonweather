@@ -1,8 +1,8 @@
 # Snowdon Summit [Push] Weather App
 
-This project brings together several elements of learning and practical pieces to put together a basic application that will notify me when the forecast on Snowdon looks favourable.
+This project brings together several elements of learning and practical pieces to put together a basic application that will notify you when the forecast on Snowdon looks favourable.
 
-As a long standing user of the website I decided to use MetOffice DataPoint a way of accessing freely available Met Office data feeds in a format that is suitable for application developers. It is aimed at professionals, the scientific community and student or amateur developers, in fact anyone looking to re-use Met Office data within their own innovative applications.
+As a long standing user of the website I decided to use MetOffice DataPoint, a way of accessing freely available Met Office data feeds in a format that is suitable for application developers. It is aimed at professionals, the scientific community and student or amateur developers, in fact anyone looking to re-use Met Office data within their own innovative applications.
 
 Access to data includes:
 
